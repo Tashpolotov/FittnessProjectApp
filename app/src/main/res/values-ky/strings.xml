@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FittnessProjectApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Салам бош фрагмент</string>
+    <string name="home">Үй</string>
+    <string name="next_challenge">Кийинки чакырык</string>
+    <string name="see_all">Баарын көрүү</string>
+    <string name="body_pump">Дене насосу</string>
+    <string name="_400_kcal">400 ккал</string>
+    <string name="_45_min">45 мин</string>
+    <string name="low">Төмөн</string>
+    <string name="next_classes">кийинки_класстар</string>
+    <string name="hiit">HIIT</string>
+    <string name="high_energy">Жогорку энергия</string>
+    <string name="calendar">Календар</string>
+    <string name="classes_on_mondey">Дүйшөмбү күнү сабактар</string>
+    <string name="amateur_level">Любители деңгээли</string>
+    <string name="_25_min">25 мин</string>
+    <string name="booked_classes">Заказдалган класстар</string>
+    <string name="classes_today">Бүгүн сабактар</string>
+    <string name="_20_min">20 мин</string>
+    <string name="week_day">Апта күнү</string>
+    <string name="spinning">Айлануу</string>
+    <string name="barselona_spain">Барселона, Испания</string>
+    <string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo_nemo_enim_ipsam_voluptatem_quia_voluptas_sit_aspernatur">Бирок ырахат алууну айыптап, азапты мактагандардын бул жаңылыштыктары кайдан келип чыкканын көрүшүңөр үчүн, мен маселенин баарын ачып, ошол чындыкты ачкан, сыпайы, архитектор айткан сөздөрдү түшүндүрөм. бактылуу жашоо. Анткени ырахаттын өзүн эч ким айыптабайт, анткени ал ырахат</string>
+    <string name="book_now">Азыр ээлеп коюңуз</string>
+    <string name="nextclasses">кийинки класстар</string>
+    <string name="fullbody">Толук дене</string>
+    <string name="skip">өткөрүп жиберүү</string>
+    <string name="welcome">Кош келдиңиз</string>
+    <string name="title">аталышы</string>
+    <string name="your_name">Сиздин атыңыз</string>
+    <string name="your_email">Сиздин Email</string>
+</resources>

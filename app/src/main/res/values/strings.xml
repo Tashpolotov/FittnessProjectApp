@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FittnessProjectApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="next_challenge">Next challenge</string>
+    <string name="see_all">See all</string>
+    <string name="body_pump">Body pump</string>
+    <string name="_400_kcal">400 kcal</string>
+    <string name="_45_min">45 min</string>
+    <string name="low">Low</string>
+    <string name="next_classes">next_classes</string>
+    <string name="hiit">HIIT</string>
+    <string name="high_energy">High energy</string>
+    <string name="calendar">Calendar</string>
+    <string name="classes_on_mondey">Classes on Mondey</string>
+    <string name="amateur_level">Amateur Level</string>
+    <string name="_25_min">25 min</string>
+    <string name="booked_classes">Booked classes</string>
+    <string name="classes_today">Classes today</string>
+    <string name="_20_min">20 min</string>
+    <string name="week_day">Week day</string>
+    <string name="spinning">Spinning</string>
+    <string name="barselona_spain">Barselona, spain</string>
+    <string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo_nemo_enim_ipsam_voluptatem_quia_voluptas_sit_aspernatur">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur</string>
+    <string name="book_now">Book now</string>
+    <string name="nextclasses">next classes</string>
+    <string name="fullbody">Full Body</string>
+    <string name="skip">skip</string>
+    <string name="welcome">welcome</string>
+    <string name="title">title</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="express_abs">Express Abs</string>
+    <string name="low_energy">Low energy</string>
+    <string name="details">Details</string>
+    <string name="about_spinning">About Spinning</string>
+    <string name="read_more">Read More....</string>
+</resources>

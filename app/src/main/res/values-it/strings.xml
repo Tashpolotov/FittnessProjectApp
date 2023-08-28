@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FittnessProjectApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="home">Home</string>
+    <string name="next_challenge">Prossima sfida</string>
+    <string name="see_all">Vedi tutto</string>
+    <string name="body_pump">Body pump</string>
+    <string name="_400_kcal">400 kcal</string>
+    <string name="_45_min">45 min</string>
+    <string name="low">Basso</string>
+    <string name="next_classes">Prossime lezioni</string>
+    <string name="hiit">HIIT</string>
+    <string name="high_energy">Alta energia</string>
+    <string name="calendar">Calendario</string>
+    <string name="classes_on_mondey">Lezioni di lunedì</string>
+    <string name="amateur_level">Livello amatoriale</string>
+    <string name="_25_min">25 min</string>
+    <string name="booked_classes">Lezioni prenotate</string>
+    <string name="classes_today">Lezioni di oggi</string>
+    <string name="_20_min">20 min</string>
+    <string name="week_day">Giorno della settimana</string>
+    <string name="spinning">Spinning</string>
+    <string name="barselona_spain">Barcellona, Spagna</string>
+    <string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo_nemo_enim_ipsam_voluptatem_quia_voluptas_sit_aspernatur">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur</string>
+    <string name="book_now">Prenota ora</string>
+    <string name="nextclasses">Prossime lezioni</string>
+    <string name="fullbody">Corpo intero</string>
+    <string name="skip">Salta</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="title">Titolo</string>
+    <string name="your_name">Il tuo Nome</string>
+    <string name="your_email">La tua Email</string>
+</resources>

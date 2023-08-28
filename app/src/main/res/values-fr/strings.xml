@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FitnessProjectApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="home">Maison</string>
+    <string name="next_challenge">Prochain challenge</string>
+    <string name="see_all">Voir tout</string>
+    <string name="body_pump">Pompe corporelle</string>
+    <string name="_400_kcal">400 kcal</string>
+    <string name="_45_min">45 minutes</string>
+    <string name="low">Faible</string>
+    <string name="next_classes">classes_suivantes</string>
+    <string name="hiit">HIIT</string>
+    <string name="high_energy">Haute énergie</string>
+    <string name="calendar">Calendrier</string>
+    <string name="classes_on_mondey">Cours sur Mondey</string>
+    <string name="amateur_level">Niveau amateur</string>
+    <string name="_25_min">25 minutes</string>
+    <string name="booked_classes">Cours réservés</string>
+    <string name="classes_today">Cours aujourd\'hui</string>
+    <string name="_20_min">20 min</string>
+    <string name="week_day">Jour de la semaine</string>
+    <string name="spinning">Filage</string>
+    <string name="barselona_spain">Barcelone, Espagne</string>
+    <string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo_nemo_enim_ipsam_voluptatem_quia_voluptas_sit_aspernatur">Mais afin que vous puissiez voir d\'où vient toute cette erreur de ceux qui accusent le plaisir et louent la douleur, j\'ouvrirai tout le sujet et expliquerai les choses mêmes qui ont été dites par celui qui a découvert la vérité et comme l\'architecte d\'une vie heureuse. vie. Car personne ne condamne le plaisir lui-même parce que c\'est le plaisir</string>
+    <string name="book_now">Reserve maintenant</string>
+    <string name="nextclasses">prochains cours</string>
+    <string name="fullbody">Tout le corps</string>
+    <string name="skip">sauter</string>
+    <string name="welcome">accueillir</string>
+    <string name="title">titre</string>
+    <string name="your_name">votre nom</string>
+    <string name="your_email">Votre e-mail</string>
+</resources>

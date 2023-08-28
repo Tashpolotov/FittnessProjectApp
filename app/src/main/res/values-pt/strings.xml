@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FitnessProjectApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="home">Lar</string>
+    <string name="next_challenge">Próximo desafio</string>
+    <string name="see_all">Ver tudo</string>
+    <string name="body_pump">Bomba corporal</string>
+    <string name="_400_kcal">400kcal</string>
+    <string name="_45_min">45 minutos</string>
+    <string name="low">Baixo</string>
+    <string name="next_classes">próximas_classes</string>
+    <string name="hiit">HIIT</string>
+    <string name="high_energy">Energia alta</string>
+    <string name="calendar">Calendário</string>
+    <string name="classes_on_mondey">Aulas na Segunda</string>
+    <string name="amateur_level">Nível Amador</string>
+    <string name="_25_min">25 minutos</string>
+    <string name="booked_classes">Aulas reservadas</string>
+    <string name="classes_today">Aulas hoje</string>
+    <string name="_20_min">20 minutos</string>
+    <string name="week_day">Dia da semana</string>
+    <string name="spinning">Fiação</string>
+    <string name="barselona_spain">Barcelona, ​​Espanha</string>
+    <string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium_totam_rem_aperiam_eaque_ipsa_quae_ab_illo_inventore_veritatis_et_quasi_architecto_beatae_vitae_dicta_sunt_explicabo_nemo_enim_ipsam_voluptatem_quia_voluptas_sit_aspernatur">Mas, para que vocês possam ver de onde vem todo esse erro nascido daqueles que acusam o prazer e elogiam a dor, abrirei todo o assunto e explicarei exatamente as coisas que foram ditas por aquele descobridor da verdade e, por assim dizer, o arquiteto de uma vida feliz. vida. Pois ninguém condena o prazer em si porque é prazer</string>
+    <string name="book_now">Agende agora</string>
+    <string name="nextclasses">próximas aulas</string>
+    <string name="fullbody">Corpo todo</string>
+    <string name="skip">pular</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="title">título</string>
+    <string name="your_name">Seu nome</string>
+    <string name="your_email">Seu email</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCalendarViewStyle" parent="@android:style/Widget.CalendarView">
+        <item name="calendarHeaderTextColor">@color/black</item> <!-- Черный цвет заголовка -->
+        <item name="calendarWeekDayTextColor">@color/black</item> <!-- Черный цвет дней недели -->
+    </style>
+</resources>

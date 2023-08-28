@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backround">#F5FFFFFF</color>
+    <color name="grey">#AAAEAC</color>
+    <color name="bottom_color">#4282FF</color>
+    <color name="selected_icon_color">#4282FF</color>
+    <color name="unselected_icon_color">#AAAEAC</color>
+    <color name="text_home_color">#3E4441</color>
+    <color name="startColorGreen">#DDF263</color>
+    <color name="endColorGreen">#77B51F</color>
+    <color name="calendar_day_with_data_color">#77B51F</color>
+    <color name="dot_color">#4282FF</color>
+
+</resources>
